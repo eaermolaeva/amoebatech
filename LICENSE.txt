@@ -1,0 +1,4 @@
+# LICENSE
+
+YEAR: 2019
+COPYRIGHT HOLDER: Desirée De Leon
